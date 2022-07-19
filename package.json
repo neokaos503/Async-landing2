@@ -1,0 +1,23 @@
+{
+  "name": "async-landing2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neokaos503/Async-landing2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neokaos503/Async-landing2/issues"
+  },
+  "homepage": "https://github.com/neokaos503/Async-landing2#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
